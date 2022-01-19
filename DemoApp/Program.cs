@@ -8,6 +8,7 @@ namespace DemoApp
 
         {
             int num = 3;
+            string name ="Mohammed Mills"
             Console.WriteLine("Hello World!");
         }
     }
