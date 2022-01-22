@@ -8,8 +8,16 @@ namespace DemoApp
 
         {   //This is my first project
             int num = 3;
-            string name ="Mohammed Mills"
-            Console.WriteLine("Hello World!");
+            string name = "Mohammed Mills";
+            
+            
+            
+            
+            
+            Console.WriteLine("Welcome! {0} you are {1}", name, num);
+
+
+
         }
     }
 }
