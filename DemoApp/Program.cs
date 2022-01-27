@@ -7,7 +7,7 @@ namespace HamzasAlphabetReader
     {
         static void Main(string[] args)
         {
-            RenderAlphabetQuicker();
+            RenderAlphabetQuicker(); ;
 
             //These methods run with slightly more performance stress than only using 'A' & 'Z' in the for loop.
             RenderAlphabetWithoutStringBuilder();
